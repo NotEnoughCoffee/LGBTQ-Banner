@@ -12,6 +12,7 @@
 		0A1F60DC287F4BDB00951BFE /* OverlayTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1F60DB287F4BDB00951BFE /* OverlayTestView.swift */; };
 		0A1F60DE287F6ECF00951BFE /* ImageHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1F60DD287F6ECF00951BFE /* ImageHandling.swift */; };
 		0A1F60E0287F7CC000951BFE /* GeoTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1F60DF287F7CC000951BFE /* GeoTestView.swift */; };
+		0A1F60E22880955C00951BFE /* ClipTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1F60E12880955C00951BFE /* ClipTestView.swift */; };
 		0ABD003A287CA8480048D919 /* LGBTQ__BannerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABD0039287CA8480048D919 /* LGBTQ__BannerApp.swift */; };
 		0ABD003C287CA8480048D919 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABD003B287CA8480048D919 /* ContentView.swift */; };
 		0ABD003E287CA84A0048D919 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0ABD003D287CA84A0048D919 /* Assets.xcassets */; };
@@ -30,6 +31,7 @@
 		0A1F60DB287F4BDB00951BFE /* OverlayTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverlayTestView.swift; sourceTree = "<group>"; };
 		0A1F60DD287F6ECF00951BFE /* ImageHandling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageHandling.swift; sourceTree = "<group>"; };
 		0A1F60DF287F7CC000951BFE /* GeoTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeoTestView.swift; sourceTree = "<group>"; };
+		0A1F60E12880955C00951BFE /* ClipTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClipTestView.swift; sourceTree = "<group>"; };
 		0ABD0036287CA8480048D919 /* LGBTQ+ Banner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LGBTQ+ Banner.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0ABD0039287CA8480048D919 /* LGBTQ__BannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LGBTQ__BannerApp.swift; sourceTree = "<group>"; };
 		0ABD003B287CA8480048D919 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				0A1F60D5287F2D2400951BFE /* OverlayView.swift */,
 				0A1F60DF287F7CC000951BFE /* GeoTestView.swift */,
 				0A1F60DB287F4BDB00951BFE /* OverlayTestView.swift */,
+				0A1F60E12880955C00951BFE /* ClipTestView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				0A1F60DC287F4BDB00951BFE /* OverlayTestView.swift in Sources */,
 				0A1F60DE287F6ECF00951BFE /* ImageHandling.swift in Sources */,
 				0ABD004D287CCF9D0048D919 /* ImageView.swift in Sources */,
+				0A1F60E22880955C00951BFE /* ClipTestView.swift in Sources */,
 				0A1F60E0287F7CC000951BFE /* GeoTestView.swift in Sources */,
 				0ABD003C287CA8480048D919 /* ContentView.swift in Sources */,
 				0ABD004B287CC8EF0048D919 /* HomeView.swift in Sources */,
